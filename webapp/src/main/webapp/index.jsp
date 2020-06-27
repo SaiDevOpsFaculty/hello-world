@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project  !!   </h1>
-<h2> Deploying from Jenkins EC2 to Tomcat EC2 </h2>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
+<h2> By Mr. Sai from Saidemy </h2>
+<h2> Hope you are enjoying the End-to-End DevOps project </h2>
 <h2> Glad to see you here </h2>
